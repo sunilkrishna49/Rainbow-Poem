@@ -6,3 +6,4 @@ Purple
 Blue
 Red
 Green
+Violet
