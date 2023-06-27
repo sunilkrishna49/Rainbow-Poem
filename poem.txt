@@ -2,6 +2,7 @@ The Raibow colours:
 Purple
 Pink
 Orange
+Purple
 Blue
 Red
 Green
