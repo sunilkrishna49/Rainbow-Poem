@@ -1,4 +1,4 @@
-The Raibow colours:
+The Raibow and the Unicorncolours:
 Purple
 Pink
 Orange
@@ -7,3 +7,4 @@ Blue
 Red
 Green
 Violet
+Unicorn
